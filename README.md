@@ -166,7 +166,8 @@ developed by: sasirajkumar tj
 ## Output screen shots of proteus  :
 ![Screenshot (4)](https://user-images.githubusercontent.com/113497176/234241025-5083f0ec-2185-4e79-83fd-21b81913c404.png)
 
-
+## layout:
+[ex3.pdf](https://github.com/SASIRAJ27/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/files/11321332/ex3.pdf)
 
 
  
