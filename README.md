@@ -125,7 +125,7 @@ int main(void)
   */
 void Push()
 {
-	button_status = HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_1);
+	button_status = HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_13);
 	if (button_status == 0)
 	{
 		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
